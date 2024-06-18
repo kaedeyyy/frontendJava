@@ -1,0 +1,8 @@
+#jsonファイル
+*.json
+
+#tsファイル
+*vite-env.d.ts
+
+# Ignore assets folder:
+src/assets/*
